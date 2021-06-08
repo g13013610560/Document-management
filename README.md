@@ -10,6 +10,8 @@ A curated list of articles and codes related to Deepfake.
 ### Biological Signal based Detection
 #### Visual-audio inconsistency
 * Deepfake Video Detection Using Audio-Visual Consistency (2020 IWDW) [[pdf](https://books.google.com.hk/books?hl=zh-CN&lr=&id=bU0dEAAAQBAJ&oi=fnd&pg=PA168&dq=Deepfake+Video+Detection+Using+Audio-Visual+Consistency&ots=V9XMaUcdIv&sig=T8I7CvrRSpC1N_SQ3CYVdQKJzl0&redir_esc=y#v=onepage&q=Deepfake%20Video%20Detection%20Using%20Audio-Visual%20Consistency&f=false)] [[google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Deepfake+Video+Detection+Using+Audio-Visual+Consistency&btnG=)]
+#### Visual inconsistency 
+* In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking (2018 WIFS) [[pdf](https://www.albany.edu/faculty/mchang2/files/2018_12_WIFS_EyeBlink_FakeVideos.pdf)] [[google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=In+ictu+oculi%3A+Exposing+ai+created+fake+videos+by+detecting+eye+blinking&btnG=)] [[code](https://github.com/yuezunli/WIFS2018_In_Ictu_Oculi)]
 
 ## Dataset
 ### Real face
