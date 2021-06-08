@@ -21,3 +21,16 @@ A curated list of articles and codes related to Deepfake.
 
 ### Fake face
 * [UADFV]In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking (2018 WIFS) [[pdf](https://www.albany.edu/faculty/mchang2/files/2018_12_WIFS_EyeBlink_FakeVideos.pdf)] [[google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=In+ictu+oculi%3A+Exposing+ai+created+fake+videos+by+detecting+eye+blinking&btnG=)]
+* [DeepFake-TIMIT]
+* [DFDC Preview]
+* [MFC]
+* [Google DFD]
+* [FaceForensics++]
+* [Celeb-DF]
+* [DFFD]
+* [FakeCatcher]
+* [iFakeFaceDB]
+* [DFDC]
+* [Vox-DeepFake]
+* [DeeperForensics-1.0]
+
