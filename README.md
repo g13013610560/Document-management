@@ -7,6 +7,9 @@ A curated list of articles and codes related to Deepfake.
 ### Entire face synthesis
 
 ## Detection
+### Biological Signal based Detection
+#### Visual-audio inconsistency
+* Deepfake Video Detection Using Audio-Visual Consistency (2020 IWDW) [[pdf](https://books.google.com.hk/books?hl=zh-CN&lr=&id=bU0dEAAAQBAJ&oi=fnd&pg=PA168&dq=Deepfake+Video+Detection+Using+Audio-Visual+Consistency&ots=V9XMaUcdIv&sig=T8I7CvrRSpC1N_SQ3CYVdQKJzl0&redir_esc=y#v=onepage&q=Deepfake%20Video%20Detection%20Using%20Audio-Visual%20Consistency&f=false)] [[google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Deepfake+Video+Detection+Using+Audio-Visual+Consistency&btnG=)]
 
 ## Dataset
 ### Real face
