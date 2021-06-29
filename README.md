@@ -34,3 +34,5 @@ A curated list of articles and codes related to Deepfake.
 * [Vox-DeepFake]
 * [DeeperForensics-1.0]
 
+## Survey
+* The Creation and Detection of Deepfakes: A Survey (2021 CSUR) [[pdf](https://arxiv.org/pdf/2004.11138.pdf)] [[google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=The+Creation+and+Detection+of+Deepfakes%3A+A+Survey&btnG=)]
